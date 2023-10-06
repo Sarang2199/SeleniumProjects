@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/laptop-software-assisting-testing-process-tiny-people-testers-automated-testing-automotive-executed-test-software-auto-tester-concept_335657-2437.jpg?size=626&ext=jpg&ga=GA1.1.950949883.1696567038&semt=ais)
+[![MasterHead](https://img.freepik.com/free-vector/laptop-software-assisting-testing-process-tiny-people-testers-automated-testing-automotive-executed-test-software-auto-tester-concept_335657-2437.jpg?size=626&ext=jpg&ga=GA1.1.950949883.1696567038&semt=ais)]
 <h1 align="center">Hi 👋, I'm Sarang Ghayal</h1>
 <h3 align="center">As a Quality Engineering Analyst with hands-on expertise in Java, Selenium, and comprehensive experience in both manual and automation testing, I drive excellence in software quality assurance through a blend of technical proficiency and precise testing methodologies.</h3>
 img align="right" alt="https://cdn.outsource2india.com/featured-images/automation-testing-process.jpg"
