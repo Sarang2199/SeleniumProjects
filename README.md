@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-vector/laptop-software-assisting-testing-process-tiny-people-testers-automated-testing-automotive-executed-test-software-auto-tester-concept_335657-2437.jpg?size=626&ext=jpg&ga=GA1.1.950949883.1696567038&semt=ais)
 <h1 align="center">Hi 👋, I'm Sarang Ghayal</h1>
 <h3 align="center">As a Quality Engineering Analyst with hands-on expertise in Java, Selenium, and comprehensive experience in both manual and automation testing, I drive excellence in software quality assurance through a blend of technical proficiency and precise testing methodologies.</h3>
-<img align="right" alt="[https://cdn.outsource2india.com/featured-images/automation-testing-process.jpg](https://cdn.dribbble.com/users/410907/screenshots/2044702/wasting_time_still_2x.gif?resize=400x300&vertical=center)">
+<img align="right" alt="image" src="https://cdn.outsource2india.com/featured-images/automation-testing-process.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarang2199&label=Profile%20views&color=0e75b6&style=flat" alt="sarang2199" /> </p>
 
 - 🔭 I’m currently working on **Cucumber Project**
